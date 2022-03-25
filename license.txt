@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bar counter
+* source:	https://sketchfab.com/3d-models/bar-counter-1bf163160fa34a2bac8c9c6218675478
+* author:	Adam (https://sketchfab.com/GodOfFire69)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bar counter" (https://sketchfab.com/3d-models/bar-counter-1bf163160fa34a2bac8c9c6218675478) by Adam (https://sketchfab.com/GodOfFire69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
