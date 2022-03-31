@@ -1,8 +1,24 @@
 # MTEC2120-Reaktor-project
 
 
+https://user-images.githubusercontent.com/67510498/160957144-aedc8bcb-7e29-45ee-84ad-c8f3915c9899.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Thanks to
+Keijiro Takahashi
+Realtor and more
 
 GltFast
 https://github.com/atteneder/glTFast
